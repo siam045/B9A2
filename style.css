@@ -547,8 +547,22 @@ padding-left: 50px;
     width: 100%;
     height: 100%;
   }
+/* perfect-place style */
 
-
-
+.perfect-place{
+  flex-direction: column;
+}
+/* newsletter style */
+.newsletter-container{
+  flex-direction: column;
+  display: block;
+  align-items: center;
+  margin: 20px;
+}
+.footer-container{
+align-items: center;
+padding: 0%;
+margin: 0%;
+}
 
 } 
